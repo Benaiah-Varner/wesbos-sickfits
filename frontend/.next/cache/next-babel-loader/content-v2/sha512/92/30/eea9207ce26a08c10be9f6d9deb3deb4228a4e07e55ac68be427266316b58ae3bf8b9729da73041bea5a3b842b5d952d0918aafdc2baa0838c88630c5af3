@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './index';","map":{"version":3,"sources":["/Users/benaiahvarner/Documents/wesbos/advanced-react/Advanced-React/sick-fits/frontend/pages/Products/[page].js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './index';"]},"metadata":{},"sourceType":"module"}
